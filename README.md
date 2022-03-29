@@ -1,8 +1,8 @@
 ---
-title: "Readme"
-author: "Fredata"
-date: '2022-03-28'
-output: html_document
+Title: "Readme"
+Author: "Fredata"
+Date: '2022-03-28'
+Output: html_document
 ---
 
 ```{r setup, include=FALSE}
