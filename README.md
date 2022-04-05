@@ -22,6 +22,8 @@ As a young data analyst, I do several real-world duties in this case study. I wo
 ##### Deliverables
 A clear statement of the business task : 
 ###### To enhance the number of yearly memberships by analyzing past travel data
+Consider Stakeholders: 
+###### Director of marketing has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics.
 
 #### Case Study Roadmap -Prepare
 
