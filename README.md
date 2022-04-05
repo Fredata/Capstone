@@ -27,6 +27,34 @@ Consider Stakeholders:
 
 #### Case Study Roadmap -Prepare
 The data has been made available by Motivate International Inc. under this license: <https://ride.divvybikes.com/data-license-agreement>
+The data is well organized, sperated into two different sets as below:
+1- Station Data ( till 2016)
+-- Data Summary ------------------------
+                           Values     
+Name                       stationdata
+Number of rows             300        
+Number of columns          7          
+_______________________               
+Column type frequency:                
+  character                2          
+  numeric                  5          
+________________________              
+Group variables            None 
+
+2- Trip data (till 02/2022)
+-- Data Summary ------------------------
+                           Values  
+Name                       tripdata
+Number of rows             759788  
+Number of columns          12      
+_______________________            
+Column type frequency:             
+  character                4       
+  numeric                  6       
+  POSIXct                  2       
+________________________           
+Group variables            None  
+
 ##### Deliverables
 A description of all data sources used
 
