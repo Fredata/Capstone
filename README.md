@@ -30,7 +30,7 @@ The data has been made available by Motivate International Inc. under this licen
 The data is well organized, sperated into two different sets as below:
 ##### 1- Station Data ( till 2016)
 
-###### -- Data Summary ------------------------
+###### -- Sample Data Summary ------------------------
                            Values     
 Name                       stationdata
 Number of rows             300        
@@ -44,7 +44,7 @@ Group variables            None
 
 ##### 2- Trip data (till 02/2022)
 
-###### -- Data Summary ------------------------
+###### -- Sample Data Summary ------------------------
                            Values  
 Name                       tripdata
 Number of rows             759788  
