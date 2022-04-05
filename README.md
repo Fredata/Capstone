@@ -26,7 +26,7 @@ Consider Stakeholders:
 ###### Director of marketing has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics.
 
 #### Case Study Roadmap -Prepare
-
+The data has been made available by Motivate International Inc. under this license: <https://ride.divvybikes.com/data-license-agreement>
 ##### Deliverables
 A description of all data sources used
 
