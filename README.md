@@ -20,7 +20,7 @@ As a young data analyst, I do several real-world duties in this case study. I wo
 #### Case Study Roadmap -Ask
 
 ##### Deliverables
-A clear statement of the business task : To enhance the number of yearly memberships by analyzing past travel data
+A clear statement of the business task : ######To enhance the number of yearly memberships by analyzing past travel data
 
 #### Case Study Roadmap -Prepare
 
