@@ -9,7 +9,7 @@ Output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 
 ```
-## Case Study: How Does a Bike-Share Navigate Speedy Success?
+## Coursera Case Study: How Does a Bike-Share Navigate Speedy Success?
 **Introduction**
 
 **Cyclistic bike-share analysis case study!**
@@ -90,3 +90,4 @@ Supporting visualizations and key findings
 Your top three recommendations based on analysis
 
 
+Thank you [Coursera & Google](https://www.coursera.org/professional-certificates/google-data-analytics)
