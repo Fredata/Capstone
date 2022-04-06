@@ -30,7 +30,7 @@ Director of marketing has set a clear goal: Design marketing strategies aimed at
 **Deliverables**
 A description of all data sources used
 **DATA Source & license**
-The data has been made available by Motivate International Inc. under this [license] (https://ride.divvybikes.com/data-license-agreement)
+The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement)
 The data is well organized, sperated into two different sets as below:
 **1- Station Data ( till 2016)**
 
