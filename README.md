@@ -63,9 +63,15 @@ Group variables            None
 ###### I downloaded all of the files from the server for the project and organized them into multiple folders, taking into account the consistency of the data and how it is updated. They are now ready for the process phase.
 
 #### Case Study Roadmap -Process
-
 ##### Deliverables
 Documentation of any cleaning or manipulation of data
+###### Pre Start: 
+For the process stage, I'd prefer load the files in Rstudio and do a clean / check process before adding additional columns for further analysis. After combining them into a single file, I examine the file size before proceeding.
+1) Open Rstudio
+2) Set the new directory: setwd("G:/01 Case Study/CASE01/Files/02 Trips")
+3) 
+
+
 
 #### Case Study Roadmap -Analyze
 
