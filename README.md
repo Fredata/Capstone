@@ -26,6 +26,9 @@ Consider Stakeholders:
 ###### Director of marketing has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics.
 
 #### Case Study Roadmap -Prepare
+##### Deliverables
+A description of all data sources used
+##### DATA Source & license 
 The data has been made available by Motivate International Inc. under this license: <https://ride.divvybikes.com/data-license-agreement>
 The data is well organized, sperated into two different sets as below:
 ##### 1- Station Data ( till 2016)
@@ -57,8 +60,7 @@ Column type frequency:
 ________________________           
 Group variables            None  
 
-##### Deliverables
-A description of all data sources used
+###### I downloaded all of the files from the server for the project and organized them into multiple folders, taking into account the consistency of the data and how it is updated. They are now ready for the process phase.
 
 #### Case Study Roadmap -Process
 
