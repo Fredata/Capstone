@@ -70,7 +70,15 @@ Documentation of any cleaning or manipulation of data
 For the process stage, I'd prefer load the files in Rstudio and do a clean / check process before adding additional columns for further analysis. After combining them into a single file, I examine the file size before proceeding.
 1) Open Rstudio
 2) Set the new directory: setwd("G:/01 Case Study/CASE01/Files/02 Trips")
-3) 
+3) > install.packages("All Required Packages") & > library()
+4) Define a dataset from one of the csv files in the list [ > Tripdata01 <-read_csv("202004-divvy-tripdata.csv") ]
+5) view and colnames() the data ( Before combining, each CSV file should have an exact amount of columns). 
+> colnames(Tripdata01)
+ [1] "ride_id"            "rideable_type"      "started_at"         "ended_at"          
+ [5] "start_station_name" "start_station_id"   "end_station_name"   "end_station_id"    
+ [9] "start_lat"          "start_lng"          "end_lat"            "end_lng"           
+[13] "member_casual" 
+
 
 
 
