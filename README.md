@@ -80,13 +80,17 @@ For the process stage, I'd prefer load the files in Rstudio and do a clean / che
 [13] "member_casual" 
 
 **Ooops! Prior to 2020, data sets had a different format:**
+
 > Tripdata242013 <-read_csv("Divvy_Trips_2013.csv")
 Rows: 759788 Columns: 12                                                                                                         
--- Column specification --
+-- Column specification ----------------------------------------------------------------------
 Delimiter: ","
 chr  (4): from_station_name, to_station_name, usertype, gender
 dbl  (6): trip_id, bikeid, tripduration, from_station_id, to_station_id, birthday
 dttm (2): starttime, stoptime
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
 
 #### Case Study Roadmap -Analyze
 
