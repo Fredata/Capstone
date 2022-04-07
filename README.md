@@ -89,9 +89,6 @@ chr  (4): from_station_name, to_station_name, usertype, gender
 dbl  (6): trip_id, bikeid, tripduration, from_station_id, to_station_id, birthday
 dttm (2): starttime, stoptime
 
-i Use `spec()` to retrieve the full column specification for this data.
-i Specify the column types or set `show_col_types = FALSE` to quiet this message.
-
 #### Case Study Roadmap -Analyze
 
 **Deliverables**
