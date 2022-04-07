@@ -79,7 +79,7 @@ For the process stage, I'd prefer load the files in Rstudio and do a clean / che
  [9] "start_lat"          "start_lng"          "end_lat"            "end_lng"           
 [13] "member_casual" 
 
-**Ooops! Data sets before the 2020 have another format:**
+**Ooops! Prior to 2020, data sets had a different format:**
 > Tripdata242013 <-read_csv("Divvy_Trips_2013.csv")
 Rows: 759788 Columns: 12                                                                                                         
 -- Column specification --
