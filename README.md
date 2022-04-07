@@ -82,7 +82,8 @@ For the process stage, I'd prefer load the files in Rstudio and do a clean / che
 **Ooops! Data sets before the 2020 have another format:**
 > Tripdata242013 <-read_csv("Divvy_Trips_2013.csv")
 Rows: 759788 Columns: 12                                                                                                         
--- Column specification ----------------------------------------------------------------------
+-- Column specification ----
+
 Delimiter: ","
 chr  (4): from_station_name, to_station_name, usertype, gender
 dbl  (6): trip_id, bikeid, tripduration, from_station_id, to_station_id, birthday
