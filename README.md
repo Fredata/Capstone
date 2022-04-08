@@ -10,6 +10,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 ## Coursera Case Study: How Does a Bike-Share Navigate Speedy Success?
+**Elevator Pitch
+
+I analyzed corporate data to evaluate performance, identify patterns, and conjecture what was causing them in this case study.
+Following that, I was able to create an action plan based on my findings.
+
 **Introduction**
 
 **Cyclistic bike-share analysis case study!**
